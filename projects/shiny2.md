@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/titanic.png
 title: Titanic
-permalink: projects/shiny
+permalink: projects/shiny2
 date: 2019
 
 summary: Aplicando machine learning
