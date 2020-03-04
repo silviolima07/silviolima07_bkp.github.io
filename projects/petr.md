@@ -8,7 +8,13 @@ permalink: projects/shiny-petr4
 date: 2019
 
 labels:
-  
+  -  
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 summary: 
 ---
 

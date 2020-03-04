@@ -8,7 +8,13 @@ permalink: projects/shiny-titanic
 date: 2019
 
 labels:
- 
+  -  
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 summary:
 ---
 
