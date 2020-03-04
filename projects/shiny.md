@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/petr.png
+image: images/titanic.png
 title: Petr4
 permalink: projects/shiny-petr4
 date: 2019
