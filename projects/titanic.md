@@ -7,15 +7,7 @@ title: Titanic
 permalink: projects/shiny-titanic
 date: 2019
 
-labels:
-  -  
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-summary:
+
 ---
 
 projecturl: https://rsilvio.shinyapps.io/Titanic/
