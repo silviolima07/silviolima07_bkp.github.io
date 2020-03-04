@@ -5,7 +5,7 @@ published: true
 image: images/shiny.png
 title: Web apps
 permalink: projects/shiny
-date: 2017
+date: 2019
 labels:
   - Algoritmo Arima
   - Regressão Linear
