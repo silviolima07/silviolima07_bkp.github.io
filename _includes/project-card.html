@@ -3,7 +3,8 @@
 <div class="card">
   {% if include.page.image %}
     <div class="image">
-      <a class="ui bottom attached button" href="{{ page.projecturl }}">img src="{{ site.baseurl }}/{{ include.page.image }}"</a>
+      <img src="{{ site.baseurl }}/{{ include.page.image }}">
+       <a class="ui bottom attached button" href="{{ page.projecturl }}">img src="{{ site.baseurl }}/{{ include.page.image }}"</a>
     </div>
   {% endif %}
   <div class="content">
@@ -25,9 +26,9 @@
     </div>
   </div>
     {% if page.projecturl %}
-      <a class="ui bottom attached button" href="{{ page.projecturl }}">Link-> {{ include.page.title }}</a>
+      <a class="ui bottom attached button" href="{{ page.projecturl }}">{{ include.page.title }}</a>
     {% else %}
-      <a class="ui bottom attached button" href="{{ site.baseurl}}{{ include.page.url }}">{Link-> { include.page.title }}</a>
+      <a class="ui bottom attached button" href="{{ site.baseurl}}{{ include.page.url }}">{{ include.page.title }}</a>
     {% endif %}
 
 </div>
