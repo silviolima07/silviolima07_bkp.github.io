@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Amy Malia Takayesu",
+    "label": "Software Engineer",
+    "picture": "https://amymalia.github.io/images/amy.jpeg",
+    "email": "amytakayesu@gmail.com",
+    "phone": "808-224-1424",
+    "website": "https://amymalia.github.io",
+    "summary": "My mission is to help to advance humankind in a creative, beautiful and positive direction.",
+    "location": {
+      "address": "1680 East-West Road, POST Building Room 314-7",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "amymalia",
+        "url": "http://github.com/amymalia"
+      },
+      {
+        "network": "linkedin",
+        "username": "amytakayesu",
+        "url": "http://linkedin.com/in/amytakayesu"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "social informatics",
+      "keywords": [
+        "connected presence",
+        "social networks",
+      ]
+    },
+    {
+      "name": "artificial intelligence",
+      "keywords": [
+        "autonomous agents",
+        "emotional intelligence",
+        "emotion contagion"
+      ]
+    },
+    {
+      "name": "IoT",
+      "keywords": [
+        "raspberry pi"
+      ]
+    },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "HTML/CSS",
+        "Javascript",
+        "SQL",
+        "Assembly",
+        "Common Lisp",
+        "Prolog",
+        "Python",
+        "Java Play Framework",
+        "Meteor",
+        "AngularJS",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Kali Linux",
+        "Windows",
+        "Git/GitHub/BitBucket",
+        "Jira & Confluence"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science, minor in Business Administration",
+      "studyType": "B.S.",
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "3.54",
+      "courses": ["Introduction to Computer Science I & II", "Discrete Mathematics for Computer Science I & II", "Program Structure", "Algorithms", "Machine-Level and Systems Programming", "Programming Language Theory", "Software Engineering I & II", "Data Storage and Retrieval", "Logic Design and Microprocessors", "Network Design and Management", "Computing Ethics for Lab Assistants", "Computer Security and Ethics", "Computer System Security", "Secure Coding", "Design for Mobile Devices"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2015",
+      "endDate": "2017",
+      "gpa": "3.88",
+      "courses": ["Advanced Software Engineering", "Advanced Artificial Intelligence", "High Performance Computing", "Analysis of Algorithms", "HCI Design Methods", "Intelligent Autonomous Agents", "Social Informatics"
+      ]
+    }
+  ],
+  "work": [
+       {
+      "company": "LiveAction",
+      "position": "Software Engineer Intern",
+      "startDate": "May 2017",
+      "endDate": "Present",
+      "summary": "Contributed front-end code to the LiveNX web UI, with a focus on AngularJS.",
+      "highlights": [
+        "Participated in agile development and worked through dozens of issues spanning over four releases (6.2.0, 6.2.1, 6.2.2, and 7.0)", 
+        "Worked with the back-end team and a remote design team to integrate new management features into the web UI.", 
+        "Improved customer support and customer on-boarding experiences by implementing LiveAction’s first WalkMe solutions"
+      ]
+    },
+    {
+      "company": "UH Manoa Computer Science Department",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2017",
+      "summary": "Assist professors in teaching undergraduate ICS courses (Introduction to Computer Science II, Programming Language Theory, Secure Coding, Software Engineering I & II).",
+      "highlights": [
+        "Developed full lesson plans including class format, material, homework, facilitating discussions, and exams for Secure Coding class",
+        "Led and lectured 75-minute classes twice a week for Introduction to Computer Science II",
+        "Worked in small groups (3-4 students) with each student for Software Engineering I & II",
+        "Graded homework assignments and exams for Introduction to Computer Science II, Software Engineering I & II, and Programming Language Theory"
+      ]
+    },
+    {
+      "company": "UH Manoa Computer Science Department",
+      "position": "Assitant Computer Engineer",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Worked with students and professors to ensure quality IT support in the ICS department.",
+      "highlights": [
+        "Assisted with building and troubleshooting Windows computers for student labs",
+        "Assisted with security camera and surveillance system", 
+        "Worked as a server administrator", 
+        "Provided technical support to department staff",
+        "Maintained department equipment through general maintenance and weekly updates"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Po'oihe Cyber Range Exercise",
+      "website": "http://www.hawaii.edu/cyberrange/",
+      "position": "Black Team Member",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "Assisted in setting up and cleaning up hardware and testing of computer software",
+      "highlights": [
+        "Tested Kali Linux, Metasploit, and VPN software",
+        "Set up the switches and cables necessary for the Blue Teams' networks"
+      ]
+    },
+    {
+      "organization": "Information Technology Management Association (ITMA)",
+      "website": "http://www.itmahawaii.com",
+      "position": "Director of Marketing",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Executive board member of a Shidler business club, with a focus on club marketing.",
+      "highlights": [
+        "Maintained online club presence (website, Facebook)",
+        "Organized club recruitment",
+        "Organized two large and successful promotional and fundraising events at Nocturna Lounge",
+        "Assisted club president and other officers with miscellaneous club duties"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Centennial Bonus Scholarship",
+      "date": "2010-2014",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen with high academic achievements and high standardized test scores."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
