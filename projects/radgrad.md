@@ -7,12 +7,7 @@ title: RadGrad
 permalink: projects/radgrad
 date: 2017
 labels:
-  - Meteor 
-  - Semantic UI
-  - Javascript
-  - Blaze
-  - Gamification
-  - Education
+ ion
   - MongoDB
 summary: 
 projecturl: http://www.radgrad.org
