@@ -2,12 +2,15 @@
 
 <div class="card">
   {% if include.page.image %}
+  <div class="content">
+     <span class="header">{{ include.page.title }}</span>
+   </div>
     <div class="image">
       <img src="{{ site.baseurl }}/{{ include.page.image }}">
     </div>
   {% endif %}
   <div class="content">
-    <span class="header">Web app: {{ include.page.title }}</span>
+    <span class="header">{{ include.page.title }}</span>
     <div class="meta">
       <span class="date">{{ include.page.date }}</span>
     </div>
