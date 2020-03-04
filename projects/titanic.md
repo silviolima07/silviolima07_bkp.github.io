@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/titanic.png
 title: Titanic
-permalink: projects/shiny-titanic
+permalink: projects/titanic
 date: 2019
 labels:
   -  

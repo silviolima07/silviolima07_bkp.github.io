@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/petr4.png
 title: Petr4
-permalink: projects/shiny-petr4
+permalink: projects/petrg4
 date: 2019
 labels:
   -  
@@ -15,5 +15,5 @@ labels:
   - 
   - 
 summary: 
-projecturl: https://rsilvio.shinyapps.io/PETR4/
+projecturl: https://rsilvio.shinyapps.io/PETR4
 ---
