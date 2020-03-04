@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/shiny.png
+image: images/petr4.png
 title: Web apps
 permalink: projects/shiny
 date: 2019
