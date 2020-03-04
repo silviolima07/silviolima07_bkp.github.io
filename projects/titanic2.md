@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/titanic2.jpeg
-title: 'Python / Streamlit / RandonForest - Titanic'
+title: 'Titanic-2'
 permalink: projects/titanic2
 date: 2019
 labels:

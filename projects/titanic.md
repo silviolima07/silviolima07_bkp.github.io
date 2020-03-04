@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/titanic.png
-title: 'Algoritmo RandonForest - Titanic'
+title: 'Titanic-1'
 permalink: projects/titanic
 date: 2019
 labels:

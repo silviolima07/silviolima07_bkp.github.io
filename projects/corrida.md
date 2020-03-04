@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/saosilvestre.png
-title: 'Python / Streamlit - São Silvestre'
+title: 'Sao Silvestre'
 permalink: projects/saosilvestre
 date: 2019
 labels:

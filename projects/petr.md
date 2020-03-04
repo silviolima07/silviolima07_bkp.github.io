@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/petr4.png
-title: 'Algoritmo Arima - Petr4'
+title: 'Alg. Arima'
 permalink: projects/petrg4
 date: 2019
 labels:
