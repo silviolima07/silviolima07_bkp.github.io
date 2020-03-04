@@ -2,8 +2,8 @@
 layout: project
 type: project
 published: true
-image: images/petr4.png
-title: Web apps
+image: images/petr.png
+title: Petr4
 permalink: projects/shiny
 date: 2019
 labels:

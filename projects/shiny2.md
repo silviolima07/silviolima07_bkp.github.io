@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/titanic.png
-title: Web apps
+title: Titanic
 permalink: projects/shiny
 date: 2019
 
