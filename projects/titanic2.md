@@ -3,8 +3,8 @@ layout: project
 type: project
 published: true
 image: images/titanic2.jpeg
-title: 'Titanic-2'
-permalink: projects/titanic2
+title: Titanic-2
+permalink: projects/titanic-2
 date: 2019
 labels:
   -  
