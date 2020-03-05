@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/titanic2.jpeg
-title: Titanic-2
+title: 'Python / Titanic'
 permalink: projects/titanic-2
 date: 2019
 labels:

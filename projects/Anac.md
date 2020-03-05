@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/Mala.png
-title: Anac
+title: 'Alg. Genéticos'
 permalink: projects/anac
 date: 2019
 labels:

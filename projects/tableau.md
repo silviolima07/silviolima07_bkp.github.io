@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/tableau.png
-title: Tableau
+title: Dashboards
 permalink: projects/tableau
 date: 2019
 labels:

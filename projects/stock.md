@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/stock.png
-title: Calendario
+title: "Análise de Ações'
 permalink: projects/calendario
 date: 2019
 labels:
