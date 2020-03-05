@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/R.png
-title: R
+title: R Graphs
 permalink: projects/r
 date: 2019
 labels:
