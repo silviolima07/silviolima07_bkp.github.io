@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/Regras.png
-title: 'Alg. Apriori'
+title: 'Algoritmo Apriori'
 permalink: projects/apriori
 date: 2019
 labels:

@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/Mala.png
-title: 'Alg. Genéticos'
+title: 'Algoritmos Genéticos'
 permalink: projects/anac
 date: 2019
 labels:
