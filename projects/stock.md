@@ -3,8 +3,8 @@ layout: project
 type: project
 published: true
 image: images/stock.png
-title: "Análise de Ações'
-permalink: projects/calendario
+title: IBovespa
+permalink: projects/stock
 date: 2019
 labels:
   -  
@@ -15,5 +15,5 @@ labels:
   - 
   - 
 summary: 
-projecturl: https://rsilvio.shinyapps.io/dashboard/
+projecturl: https://rsilvio.shinyapps.io/dashboard
 ---
