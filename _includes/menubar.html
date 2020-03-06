@@ -16,7 +16,10 @@
         <div class="ui compact stackable text menu">
           <a href="{{ site.baseurl }}/" class="item">HOME</a>
           {% if num_projects > 0 %}
-          <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
+          <!--<a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</
+          a>-->
+          <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">Curriculo</
+          a>
           {% endif %}
           {% if num_essays > 0 %}
           <a href="{{ site.baseurl }}/projects" class=" {% if include.active == "projects" %} active {% endif %}item">PROJETOS</a>
