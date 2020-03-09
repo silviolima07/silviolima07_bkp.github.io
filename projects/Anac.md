@@ -5,7 +5,7 @@ published: true
 image: images/Mala.png
 title: 'Algoritmos Genéticos'
 permalink: projects/anac
-date: 2019
+date: 10
 labels:
   -  
   - 

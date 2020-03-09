@@ -5,7 +5,7 @@ published: true
 image: images/opencv.png
 title: 'OpenCV - Classification'
 permalink: projects/opencv
-date: 2019
+date: 7
 labels:
   -  
   - 

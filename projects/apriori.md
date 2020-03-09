@@ -5,7 +5,7 @@ published: true
 image: images/Regras.png
 title: 'Algoritmo Apriori'
 permalink: projects/apriori
-date: 2019
+date: 8
 labels:
   -  
   - 

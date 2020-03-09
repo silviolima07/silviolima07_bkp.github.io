@@ -5,7 +5,7 @@ published: true
 image: images/stock.png
 title: IBovespa
 permalink: projects/stock
-date: 2019
+date: 9
 labels:
   -  
   - 

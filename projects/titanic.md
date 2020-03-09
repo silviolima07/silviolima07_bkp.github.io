@@ -5,7 +5,7 @@ published: true
 image: images/titanic.png
 title: 'R / Titanic'
 permalink: projects/titanic-1
-date: 2019
+date: 2
 labels:
   -  
   - 

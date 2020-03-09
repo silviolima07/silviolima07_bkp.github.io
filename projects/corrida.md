@@ -5,7 +5,7 @@ published: true
 image: images/saosilvestre.png
 title: 'Sao Silvestre'
 permalink: projects/saosilvestre
-date: 2019
+date: 3
 labels:
   -  
   - 
