@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/Mala.png
 title: 'Algoritmos Genéticos'
-permalink: projects/anac
+permalink: projects/handbag
 date: 10
 labels:
   -  
