@@ -15,5 +15,5 @@ labels:
   - 
   - 
 summary: 
-projecturl: https://app-textblob.herokuapp.com
+projecturl: https://app-textblob-v2.herokuapp.com
 ---
